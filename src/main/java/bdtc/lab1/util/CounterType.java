@@ -1,4 +1,4 @@
-package bdtc.lab1;
+package bdtc.lab1.util;
 
 /**
  * Тип счётчика для подсчета статистики по битым логам
